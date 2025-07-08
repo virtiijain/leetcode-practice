@@ -7,3 +7,10 @@ function twoSum(nums, target) {
         }
     }
 }
+
+// Test case 1
+console.log(twoSum([2, 7, 11, 15], 9)); 
+// Test case 2
+console.log(twoSum([3,2,4], 6));
+// Test case 3
+console.log(twoSum([3,3], 6));
