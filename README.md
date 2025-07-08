@@ -1,4 +1,4 @@
-# LeetCode Practice by Virti Jain
+# LeetCode Practice 
 
 This repository is a collection of problems I'm solving on [LeetCode](https://leetcode.com/) as part of my daily coding practice.
 
