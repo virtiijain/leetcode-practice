@@ -15,9 +15,9 @@ I'm currently focusing on building problem-solving skills in **JavaScript**, sta
 
 | Difficulty | Solved | Target |
 |------------|--------|--------|
-| Easy       | 3      |  50    |
+| Easy       | 4      |  50    |
 | Medium     | 0      |  50    |
 | Hard       | 0      |  20    |
 
-> I update this list regularly as I solve new problems!
-> I'm still learning & improving!
+>> I update this list regularly as I solve new problems!
+>> I'm still learning & improving!
